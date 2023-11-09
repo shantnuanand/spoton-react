@@ -1,0 +1,20 @@
+/* Default content class */
+.contenthide {
+  display: none;
+  overflow: hidden;
+  transition: max-height 20s ease-in-out !important;
+}
+.contentshow {
+  margin: 0px 130px 0px;
+  box-sizing: border-box;
+  background-color: rgb(235, 233, 233);
+  border: 1px solid rgb(156 163 175); 
+  padding: 0px 15px 0px; 
+  display: block; /* Show the content */
+  max-height: 500px; /* Set a maximum height */
+  overflow: visible; /* Allow content to be visible within the set height */
+  transition: max-height 20s ease-in-out !important;
+
+}
+
+
