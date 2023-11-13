@@ -10,9 +10,9 @@
   background-color: rgb(235, 233, 233);
   border: 1px solid rgb(156 163 175); 
   padding: 0px 15px 0px; 
-  display: block; /* Show the content */
-  max-height: 500px; /* Set a maximum height */
-  overflow: visible; /* Allow content to be visible within the set height */
+  display: block;
+  max-height: 500px; 
+  overflow: visible; 
   transition: max-height 20s ease-in-out !important;
 
 }
