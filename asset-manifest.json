@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shantnuanand/spoton-react/static/css/main.54ae730d.css",
-    "main.js": "/shantnuanand/spoton-react/static/js/main.d47e344e.js",
-    "static/js/787.0c3f432a.chunk.js": "/shantnuanand/spoton-react/static/js/787.0c3f432a.chunk.js",
-    "static/media/video.mp4": "/shantnuanand/spoton-react/static/media/video.ad168ec6aa5aad093739.mp4",
-    "index.html": "/shantnuanand/spoton-react/index.html",
-    "main.54ae730d.css.map": "/shantnuanand/spoton-react/static/css/main.54ae730d.css.map",
-    "main.d47e344e.js.map": "/shantnuanand/spoton-react/static/js/main.d47e344e.js.map",
-    "787.0c3f432a.chunk.js.map": "/shantnuanand/spoton-react/static/js/787.0c3f432a.chunk.js.map"
+    "main.css": "/spoton-react/static/css/main.54ae730d.css",
+    "main.js": "/spoton-react/static/js/main.e470b4ad.js",
+    "static/js/787.0c3f432a.chunk.js": "/spoton-react/static/js/787.0c3f432a.chunk.js",
+    "static/media/video.mp4": "/spoton-react/static/media/video.ad168ec6aa5aad093739.mp4",
+    "index.html": "/spoton-react/index.html",
+    "main.54ae730d.css.map": "/spoton-react/static/css/main.54ae730d.css.map",
+    "main.e470b4ad.js.map": "/spoton-react/static/js/main.e470b4ad.js.map",
+    "787.0c3f432a.chunk.js.map": "/spoton-react/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54ae730d.css",
-    "static/js/main.d47e344e.js"
+    "static/js/main.e470b4ad.js"
   ]
 }
