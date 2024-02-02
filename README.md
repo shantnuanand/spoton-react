@@ -1,4 +1,4 @@
-Watch the site on: [](https://shantnuanand.github.io/spoton-react/).
+Watch the site on: [SpotOn Clone](https://shantnuanand.github.io/spoton-react/).
 
 # Getting Started with Create React App
 
